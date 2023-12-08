@@ -1,3 +1,5 @@
+<?php 
+
 //Get product Id by Course Id
 function ecare_get_product_id_by_course_id($course_id) {
     $product_id = 0;
